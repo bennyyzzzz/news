@@ -8,6 +8,12 @@
         align-items: center;
         gap: 8px;
     }
+
+    div:nth-child(1){
+        img {
+            width: 1.3rem;
+        }
+    }
     
     div:nth-child(2){
         margin-inline: auto;
